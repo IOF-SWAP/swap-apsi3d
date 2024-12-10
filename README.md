@@ -73,7 +73,7 @@ We provide a beginners tutorial, showing how to process the provided disparity d
 First, clone the repository using `git`:
 
 ~~~
-git clone https://gitlab.cc-asp.fraunhofer.de/swap/entwicklungen/swap-os-components/swap-apsi3d.git
+git clone  https://github.com/IOF-SWAP/swap-apsi3d
 ~~~
 
 Then open a python terminal and change into the source directory. For convinience you can create and activate a virtual environment in the source folder:
